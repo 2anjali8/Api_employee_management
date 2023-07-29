@@ -1,0 +1,177 @@
+A:\Employee management\Employee management\bin\Employee management.dll.config
+A:\Employee management\Employee management\bin\Employee management.dll
+A:\Employee management\Employee management\bin\Employee management.pdb
+A:\Employee management\Employee management\bin\roslyn\csc.exe
+A:\Employee management\Employee management\bin\roslyn\csc.exe.config
+A:\Employee management\Employee management\bin\roslyn\csc.rsp
+A:\Employee management\Employee management\bin\roslyn\csi.exe
+A:\Employee management\Employee management\bin\roslyn\csi.exe.config
+A:\Employee management\Employee management\bin\roslyn\csi.rsp
+A:\Employee management\Employee management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+A:\Employee management\Employee management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+A:\Employee management\Employee management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+A:\Employee management\Employee management\bin\roslyn\Microsoft.CodeAnalysis.dll
+A:\Employee management\Employee management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+A:\Employee management\Employee management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+A:\Employee management\Employee management\bin\roslyn\Microsoft.CSharp.Core.targets
+A:\Employee management\Employee management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+A:\Employee management\Employee management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+A:\Employee management\Employee management\bin\roslyn\Microsoft.Managed.Core.targets
+A:\Employee management\Employee management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+A:\Employee management\Employee management\bin\roslyn\Microsoft.Win32.Primitives.dll
+A:\Employee management\Employee management\bin\roslyn\System.AppContext.dll
+A:\Employee management\Employee management\bin\roslyn\System.Collections.Immutable.dll
+A:\Employee management\Employee management\bin\roslyn\System.Console.dll
+A:\Employee management\Employee management\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+A:\Employee management\Employee management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+A:\Employee management\Employee management\bin\roslyn\System.Diagnostics.StackTrace.dll
+A:\Employee management\Employee management\bin\roslyn\System.Globalization.Calendars.dll
+A:\Employee management\Employee management\bin\roslyn\System.IO.Compression.dll
+A:\Employee management\Employee management\bin\roslyn\System.IO.Compression.ZipFile.dll
+A:\Employee management\Employee management\bin\roslyn\System.IO.FileSystem.dll
+A:\Employee management\Employee management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+A:\Employee management\Employee management\bin\roslyn\System.Net.Http.dll
+A:\Employee management\Employee management\bin\roslyn\System.Net.Sockets.dll
+A:\Employee management\Employee management\bin\roslyn\System.Reflection.Metadata.dll
+A:\Employee management\Employee management\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+A:\Employee management\Employee management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+A:\Employee management\Employee management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+A:\Employee management\Employee management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+A:\Employee management\Employee management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+A:\Employee management\Employee management\bin\roslyn\System.Text.Encoding.CodePages.dll
+A:\Employee management\Employee management\bin\roslyn\System.Threading.Tasks.Extensions.dll
+A:\Employee management\Employee management\bin\roslyn\System.ValueTuple.dll
+A:\Employee management\Employee management\bin\roslyn\System.Xml.ReaderWriter.dll
+A:\Employee management\Employee management\bin\roslyn\System.Xml.XmlDocument.dll
+A:\Employee management\Employee management\bin\roslyn\System.Xml.XPath.dll
+A:\Employee management\Employee management\bin\roslyn\System.Xml.XPath.XDocument.dll
+A:\Employee management\Employee management\bin\roslyn\vbc.exe
+A:\Employee management\Employee management\bin\roslyn\vbc.exe.config
+A:\Employee management\Employee management\bin\roslyn\vbc.rsp
+A:\Employee management\Employee management\bin\roslyn\VBCSCompiler.exe
+A:\Employee management\Employee management\bin\roslyn\VBCSCompiler.exe.config
+A:\Employee management\Employee management\bin\Antlr3.Runtime.dll
+A:\Employee management\Employee management\bin\EntityFramework.dll
+A:\Employee management\Employee management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+A:\Employee management\Employee management\bin\Microsoft.Web.Infrastructure.dll
+A:\Employee management\Employee management\bin\Newtonsoft.Json.dll
+A:\Employee management\Employee management\bin\System.Net.Http.Formatting.dll
+A:\Employee management\Employee management\bin\System.Web.Helpers.dll
+A:\Employee management\Employee management\bin\System.Web.Http.dll
+A:\Employee management\Employee management\bin\System.Web.Http.WebHost.dll
+A:\Employee management\Employee management\bin\System.Web.Mvc.dll
+A:\Employee management\Employee management\bin\System.Web.Optimization.dll
+A:\Employee management\Employee management\bin\System.Web.Razor.dll
+A:\Employee management\Employee management\bin\System.Web.WebPages.Deployment.dll
+A:\Employee management\Employee management\bin\System.Web.WebPages.dll
+A:\Employee management\Employee management\bin\System.Web.WebPages.Razor.dll
+A:\Employee management\Employee management\bin\WebGrease.dll
+A:\Employee management\Employee management\bin\EntityFramework.xml
+A:\Employee management\Employee management\bin\Newtonsoft.Json.xml
+A:\Employee management\Employee management\bin\System.Net.Http.Formatting.xml
+A:\Employee management\Employee management\bin\System.Web.Helpers.xml
+A:\Employee management\Employee management\bin\System.Web.Http.xml
+A:\Employee management\Employee management\bin\System.Web.Http.WebHost.xml
+A:\Employee management\Employee management\bin\System.Web.Mvc.xml
+A:\Employee management\Employee management\bin\System.Web.Optimization.xml
+A:\Employee management\Employee management\bin\System.Web.Razor.xml
+A:\Employee management\Employee management\bin\System.Web.WebPages.xml
+A:\Employee management\Employee management\bin\System.Web.WebPages.Deployment.xml
+A:\Employee management\Employee management\bin\System.Web.WebPages.Razor.xml
+A:\Employee management\Employee management\bin\Antlr3.Runtime.pdb
+A:\Employee management\Employee management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+A:\Employee management\Employee management\obj\Debug\Employee management.csproj.AssemblyReference.cache
+A:\Employee management\Employee management\obj\Debug\Employee management.csproj.CoreCompileInputs.cache
+A:\Employee management\Employee management\obj\Debug\Employee management.csproj.CopyComplete
+A:\Employee management\Employee management\obj\Debug\Employee management.dll
+A:\Employee management\Employee management\obj\Debug\Employee management.pdb
+A:\Employee management_API\Employee management\bin\Employee management.dll.config
+A:\Employee management_API\Employee management\bin\Employee management.dll
+A:\Employee management_API\Employee management\bin\Employee management.pdb
+A:\Employee management_API\Employee management\bin\roslyn\csc.exe
+A:\Employee management_API\Employee management\bin\roslyn\csc.exe.config
+A:\Employee management_API\Employee management\bin\roslyn\csc.rsp
+A:\Employee management_API\Employee management\bin\roslyn\csi.exe
+A:\Employee management_API\Employee management\bin\roslyn\csi.exe.config
+A:\Employee management_API\Employee management\bin\roslyn\csi.rsp
+A:\Employee management_API\Employee management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+A:\Employee management_API\Employee management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+A:\Employee management_API\Employee management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+A:\Employee management_API\Employee management\bin\roslyn\Microsoft.CodeAnalysis.dll
+A:\Employee management_API\Employee management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+A:\Employee management_API\Employee management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+A:\Employee management_API\Employee management\bin\roslyn\Microsoft.CSharp.Core.targets
+A:\Employee management_API\Employee management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+A:\Employee management_API\Employee management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+A:\Employee management_API\Employee management\bin\roslyn\Microsoft.Managed.Core.targets
+A:\Employee management_API\Employee management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+A:\Employee management_API\Employee management\bin\roslyn\Microsoft.Win32.Primitives.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.AppContext.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.Collections.Immutable.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.Console.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.Diagnostics.StackTrace.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.Globalization.Calendars.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.IO.Compression.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.IO.Compression.ZipFile.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.IO.FileSystem.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.Net.Http.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.Net.Sockets.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.Reflection.Metadata.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.Text.Encoding.CodePages.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.Threading.Tasks.Extensions.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.ValueTuple.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.Xml.ReaderWriter.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.Xml.XmlDocument.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.Xml.XPath.dll
+A:\Employee management_API\Employee management\bin\roslyn\System.Xml.XPath.XDocument.dll
+A:\Employee management_API\Employee management\bin\roslyn\vbc.exe
+A:\Employee management_API\Employee management\bin\roslyn\vbc.exe.config
+A:\Employee management_API\Employee management\bin\roslyn\vbc.rsp
+A:\Employee management_API\Employee management\bin\roslyn\VBCSCompiler.exe
+A:\Employee management_API\Employee management\bin\roslyn\VBCSCompiler.exe.config
+A:\Employee management_API\Employee management\bin\Antlr3.Runtime.dll
+A:\Employee management_API\Employee management\bin\EntityFramework.dll
+A:\Employee management_API\Employee management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+A:\Employee management_API\Employee management\bin\Microsoft.Web.Infrastructure.dll
+A:\Employee management_API\Employee management\bin\Newtonsoft.Json.dll
+A:\Employee management_API\Employee management\bin\System.Net.Http.Formatting.dll
+A:\Employee management_API\Employee management\bin\System.Web.Helpers.dll
+A:\Employee management_API\Employee management\bin\System.Web.Http.dll
+A:\Employee management_API\Employee management\bin\System.Web.Http.WebHost.dll
+A:\Employee management_API\Employee management\bin\System.Web.Mvc.dll
+A:\Employee management_API\Employee management\bin\System.Web.Optimization.dll
+A:\Employee management_API\Employee management\bin\System.Web.Razor.dll
+A:\Employee management_API\Employee management\bin\System.Web.WebPages.Deployment.dll
+A:\Employee management_API\Employee management\bin\System.Web.WebPages.dll
+A:\Employee management_API\Employee management\bin\System.Web.WebPages.Razor.dll
+A:\Employee management_API\Employee management\bin\WebGrease.dll
+A:\Employee management_API\Employee management\bin\EntityFramework.xml
+A:\Employee management_API\Employee management\bin\Newtonsoft.Json.xml
+A:\Employee management_API\Employee management\bin\System.Net.Http.Formatting.xml
+A:\Employee management_API\Employee management\bin\System.Web.Helpers.xml
+A:\Employee management_API\Employee management\bin\System.Web.Http.xml
+A:\Employee management_API\Employee management\bin\System.Web.Http.WebHost.xml
+A:\Employee management_API\Employee management\bin\System.Web.Mvc.xml
+A:\Employee management_API\Employee management\bin\System.Web.Optimization.xml
+A:\Employee management_API\Employee management\bin\System.Web.Razor.xml
+A:\Employee management_API\Employee management\bin\System.Web.WebPages.xml
+A:\Employee management_API\Employee management\bin\System.Web.WebPages.Deployment.xml
+A:\Employee management_API\Employee management\bin\System.Web.WebPages.Razor.xml
+A:\Employee management_API\Employee management\bin\Antlr3.Runtime.pdb
+A:\Employee management_API\Employee management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+A:\Employee management_API\Employee management\obj\Debug\Employee management.csproj.AssemblyReference.cache
+A:\Employee management_API\Employee management\obj\Debug\Employee management.csproj.CoreCompileInputs.cache
+A:\Employee management_API\Employee management\obj\Debug\Employee management.csproj.CopyComplete
+A:\Employee management_API\Employee management\obj\Debug\Employee management.dll
+A:\Employee management_API\Employee management\obj\Debug\Employee management.pdb
+A:\Employee management_API\Employee management\bin\System.Web.Cors.dll
+A:\Employee management_API\Employee management\bin\System.Web.Http.Cors.dll
+A:\Employee management_API\Employee management\bin\System.Web.Http.Cors.xml

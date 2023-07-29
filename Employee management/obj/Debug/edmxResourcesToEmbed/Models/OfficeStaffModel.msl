@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="OfficeStaffModelStoreContainer" CdmEntityContainer="OfficeStaffEntities">
+    <EntitySetMapping Name="OfficeStaff_Table">
+      <EntityTypeMapping TypeName="OfficeStaffModel.OfficeStaff_Table">
+        <MappingFragment StoreEntitySet="OfficeStaff_Table">
+          <ScalarProperty Name="OfficeStaff_UserName" ColumnName="OfficeStaff_UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

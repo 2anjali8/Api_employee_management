@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EmployeeModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Employee_Table">
+    <Key>
+      <PropertyRef Name="EmployeeUID" />
+      <PropertyRef Name="EmployeeFirstName" />
+      <PropertyRef Name="EmployeeLastName" />
+      <PropertyRef Name="Department" />
+      <PropertyRef Name="designation" />
+      <PropertyRef Name="DateOfJoining" />
+      <PropertyRef Name="Salary" />
+      <PropertyRef Name="OfficeHours" />
+      <PropertyRef Name="DateOfBirth" />
+    </Key>
+    <Property Name="EmployeeUID" Type="Int32" Nullable="false" />
+    <Property Name="EmployeeFirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="EmployeeLastName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Department" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="designation" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DateOfJoining" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Salary" Type="Int32" Nullable="false" />
+    <Property Name="OfficeHours" Type="Int32" Nullable="false" />
+    <Property Name="DateOfBirth" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="ContactInfo" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Supervisor" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="EmployeeEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Employee_Table" EntityType="Self.Employee_Table" />
+  </EntityContainer>
+</Schema>
